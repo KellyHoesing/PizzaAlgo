@@ -1,0 +1,11 @@
+1. Decide what business to order from.
+2. Visit that business's website.
+3. Select the style of pizza you desire.
+  a. Select a Size (Small, Medium, Large, Extra Large)
+  b. Select a Crust Style (Deep Dish, Regular, Thin Crust)
+  c. Select Sauce (Red Sauce, Alfredo)
+  d. Select Meats (Bacon, Beef, Pepperoni, Sausage)
+  e. Select Additional Toppings (Bell Peppers, Olives, Onions)
+4. Enter delivery address information.
+5. Enter payment information.
+6. Submit order.
