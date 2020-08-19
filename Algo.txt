@@ -9,3 +9,6 @@
 4. Enter delivery address information.
 5. Enter payment information.
 6. Submit order.
+7. Wait 20 minutes.
+  a. If pizza has arrived, eat delicious pizza.
+  b. If pizza hasn't arrived, make an angry phone call.
